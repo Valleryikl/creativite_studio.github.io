@@ -31,6 +31,13 @@ body {
   .topnav .icon {
     display: none;
   }
+  .hero {
+    background-image: url(img/Hero.png);
+    height: 750px;
+    background-size: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
   @media screen and (max-width: 980px) {
     .topnav {
       margin: 0 30px;
